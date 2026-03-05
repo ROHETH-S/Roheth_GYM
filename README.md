@@ -1,3 +1,3 @@
 # Roheth_GYM
 
-My Gym-Excerise Split
+My Gym-Exercise Split
